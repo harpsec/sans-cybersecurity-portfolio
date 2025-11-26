@@ -1,1 +1,2 @@
 # sans-cybersecurity-portfolio
+I don’t have a lot of CTF experience. I usually learn by doing hands‑on labs. The NCL Fall 2025 competition was actually my first CTF. Since then I’ve realized that CTFs are a great way to get creative, even if they aren’t always realistic, because they let you apply and sharpen your skills. I enjoy the gamified learning style, it helps develop abilities without feeling forced. That said, I still prefer lab platforms like those from PortSwigger to develope my skills.😎
